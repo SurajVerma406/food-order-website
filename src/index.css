@@ -1,0 +1,45 @@
+.food-order-image {
+	background: url('https://images03.nicepage.com/c461c07a441a5d220e8feb1a/4ff63fb0a1d3531caa87c68a/-min.jpg') no-repeat center center/cover;
+	position: relative;
+	z-index: 1;
+}
+
+.cooking-image {
+	background: url('https://images03.nicepage.com/c461c07a441a5d220e8feb1a/25e2dd335978504fbcc1e88d/OG9KN00j-min.jpg') no-repeat center center/cover;
+}
+
+.linearGradientColor {
+	background: linear-gradient(to right, #fff 50%, #f1c50e 50%);
+}
+
+.linearGradientColor-2 {
+	background: linear-gradient(to right, #28282800 50%, #f1c50e 50%);
+}
+
+.meat {
+	background: url('https://images03.nicepage.com/c461c07a441a5d220e8feb1a/1eb3bebb56375728b81f140f/b270865f-bd3a-4578-8054-7a8722565915.jpeg') no-repeat center center/cover;
+}
+
+.fish {
+	background: url('https://images03.nicepage.com/c461c07a441a5d220e8feb1a/94c2501145a051d9ac5572f4/e54b04ff-7e70-4e45-a3b4-d6b43c5616c3.jpeg') no-repeat center center/cover;
+}
+
+.vegetable-cut {
+	background: url('https://images03.nicepage.com/c461c07a441a5d220e8feb1a/65c851f4072a50958e4166e9/983913b4-b58c-4f68-a82c-3280bf7a1a77.jpg') no-repeat center center/cover;
+}
+
+.vegetables {
+	background: url('https://images03.nicepage.com/c461c07a441a5d220e8feb1a/628a94ce0f4f544d965d3371/3e67e0cf-275f-46e7-8339-4d27b8886f47.jpg') no-repeat center center/cover;
+}
+
+.pizza {
+	background: url('https://images03.nicepage.com/c461c07a441a5d220e8feb1a/51aeaed3b1cb5527884543bc/725d7ad7-2f2d-42af-961e-5a31ad366542.jpg') no-repeat center center/cover;
+}
+
+
+@media only screen and (max-width:480px) {
+	.px-20 {
+		padding-left: 3px !important;
+		padding-right: 3px !important;
+	}
+}
