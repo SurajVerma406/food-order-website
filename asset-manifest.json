@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd2a1f6b.css",
-    "main.js": "/static/js/main.a116ffa1.js",
-    "static/js/453.efd975d5.chunk.js": "/static/js/453.efd975d5.chunk.js",
-    "index.html": "/index.html",
-    "main.dd2a1f6b.css.map": "/static/css/main.dd2a1f6b.css.map",
-    "main.a116ffa1.js.map": "/static/js/main.a116ffa1.js.map",
-    "453.efd975d5.chunk.js.map": "/static/js/453.efd975d5.chunk.js.map"
+    "main.css": "/food-order-website/static/css/main.dd2a1f6b.css",
+    "main.js": "/food-order-website/static/js/main.cfc88fb2.js",
+    "static/js/453.efd975d5.chunk.js": "/food-order-website/static/js/453.efd975d5.chunk.js",
+    "index.html": "/food-order-website/index.html",
+    "main.dd2a1f6b.css.map": "/food-order-website/static/css/main.dd2a1f6b.css.map",
+    "main.cfc88fb2.js.map": "/food-order-website/static/js/main.cfc88fb2.js.map",
+    "453.efd975d5.chunk.js.map": "/food-order-website/static/js/453.efd975d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dd2a1f6b.css",
-    "static/js/main.a116ffa1.js"
+    "static/js/main.cfc88fb2.js"
   ]
 }
