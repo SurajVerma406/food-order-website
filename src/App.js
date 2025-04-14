@@ -8,7 +8,7 @@ import Footer from './components/Footer';
 const App = () => {
 	return (
 		<>
-			<HashRouter basename="/food-order-website">
+			<HashRouter>
 				<Header />
 				<Routes>
 					<Route path="/" element={<Home />} />
